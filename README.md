@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 
 Complete Ruby on Rails 
+
+new line stuff
